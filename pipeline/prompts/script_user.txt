@@ -1,0 +1,75 @@
+Write a complete narration script for a Dev Life with Uche YouTube video on the following topic:
+
+TOPIC: {topic}
+
+CRITICAL: The total narration must be between {min_words} and {max_words} words. This is an 8-10 minute video at a natural conversational pace. Uche speaks clearly and with rhythm. Pauses between points are part of the delivery. Do not pad. Every sentence earns its place.
+
+The number of points in the listicle is specified in the topic title. Follow this structure:
+
+1. HOOK (~30 words): Name the developer experience in second person. Make them feel seen.
+2. INTRO (~150 words): Why this matters. Brief credibility. Set up the listicle.
+3. POINTS (point_1 through point_N, ~150-200 words each): Each point has a punchy heading and a breakdown with specific examples. Each should be self-contained enough to work as a standalone YouTube Short. Each point must open with a brief conversational transition (1-2 sentences) before the heading. The first point flows from the intro naturally ("Let's start with..."), middle points vary their transitions (never repeat a pattern), and the final point is clearly signposted ("And finally..." or "The last one...").
+4. CONCLUSION (~120 words): The real takeaway. No fluff. Bring it home.
+5. CTA (~30 words): Natural close. Not desperate.
+
+RULES:
+- No em dashes. Full stops and paragraph breaks for pacing.
+- Each point heading must be quotable and work as a Short hook.
+- Be specific: name real tools, frameworks, patterns, roles.
+- Dry humour through recognition, not forced jokes.
+- The thumbnail_title must be 4-6 words, uppercase, punchy.
+- The thumbnail_subtitle is optional, 3-5 words if used.
+- The thumbnail_accent_words is a list of 1-2 words from thumbnail_title to highlight in accent colour.
+- The thumbnail_expression must be one of: raised_eyebrow, deadpan, slight_smirk, mild_frustration, tired_founder, neutral.
+- The thumbnail_scene must be a vivid, story-driven scene concept (2-3 sentences) that captures the video's core tension in a single cinematic frame. Not a generic desk portrait. Think metaphorical, dramatic, or humorous.
+
+Return valid JSON only, matching this schema:
+{{
+  "title": "N Things/Signs/Reasons [Topic]",
+  "description": "YouTube description, 150-200 words, SEO optimised for software engineering audience",
+  "tags": ["software engineering", "dev life", "startup", ...],
+  "thumbnail_title": "SHORT PUNCHY TITLE",
+  "thumbnail_subtitle": "Optional subtitle",
+  "thumbnail_accent_words": ["WORD1"],
+  "thumbnail_expression": "raised_eyebrow",
+  "thumbnail_scene": "Vivid scene description for the thumbnail image. 2-3 sentences describing a cinematic, story-driven moment.",
+  "sections": [
+    {{
+      "id": "hook",
+      "label": "Hook",
+      "text": "Full narration text...",
+      "duration_estimate": 10
+    }},
+    {{
+      "id": "intro",
+      "label": "Intro",
+      "text": "...",
+      "duration_estimate": 50
+    }},
+    {{
+      "id": "point_1",
+      "label": "1. [Point Heading]",
+      "text": "...",
+      "duration_estimate": 70
+    }},
+    {{
+      "id": "point_2",
+      "label": "2. [Point Heading]",
+      "text": "...",
+      "duration_estimate": 70
+    }},
+    ...more points as specified by the listicle number...
+    {{
+      "id": "conclusion",
+      "label": "Conclusion",
+      "text": "...",
+      "duration_estimate": 40
+    }},
+    {{
+      "id": "cta",
+      "label": "CTA",
+      "text": "...",
+      "duration_estimate": 10
+    }}
+  ]
+}}

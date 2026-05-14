@@ -1,0 +1,94 @@
+[
+  {
+    "title": "7 Signs Your Agile Process Is Just Waterfall in Disguise",
+    "topic": "7 Signs Your Agile Process Is Just Waterfall in Disguise",
+    "thumbnail_text": "AGILE IS A LIE",
+    "thumbnail_accent_words": ["LIE"],
+    "thumbnail_sub": "7 Signs You're Doing Waterfall",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "5 Things Nobody Tells You About Your First Startup",
+    "topic": "5 things nobody tells you about your first startup — the unsexy realities of founding a company that every first-time founder learns the hard way",
+    "thumbnail_text": "YOUR FIRST STARTUP WILL HURT",
+    "thumbnail_sub": "5 Things Nobody Warns You About",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "Why Your Sprint Planning Is a Waste of Time",
+    "topic": "Why your sprint planning meetings are a complete waste of time — the dysfunction behind agile ceremonies that nobody admits",
+    "thumbnail_text": "SPRINT PLANNING IS BROKEN",
+    "thumbnail_sub": "Here's What Actually Works",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "7 Things Customers Say That Mean the Opposite",
+    "topic": "7 things customers say that mean the exact opposite — decoding customer feedback when what they say and what they mean are completely different",
+    "thumbnail_text": "CUSTOMERS ARE LYING TO YOU",
+    "thumbnail_sub": "7 Things They Actually Mean",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "Why Senior Engineers Keep Quitting Your Company",
+    "topic": "Why your best senior engineers keep quitting — the real reasons talented developers leave that have nothing to do with money",
+    "thumbnail_text": "YOUR BEST DEVS ARE LEAVING",
+    "thumbnail_sub": "It's Not About the Money",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "6 Types of Tech Debt That Will Kill Your Startup",
+    "topic": "6 types of tech debt that will silently kill your startup — the hidden code rot that compounds until it's too late to fix",
+    "thumbnail_text": "TECH DEBT WILL KILL YOU",
+    "thumbnail_sub": "6 Types You're Ignoring",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "What Your PM Is Actually Thinking in Every Meeting",
+    "topic": "What your product manager is actually thinking in every meeting — the internal monologue of a PM dealing with engineers, stakeholders, and impossible deadlines",
+    "thumbnail_text": "INSIDE YOUR PM'S HEAD",
+    "thumbnail_sub": "What They'll Never Say Out Loud",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "The CTO's Week From Hell Nobody Talks About",
+    "topic": "The CTO's week from hell that nobody talks about — production incidents, board meetings, hiring crises, and the loneliness of technical leadership",
+    "thumbnail_text": "A CTO'S WORST WEEK EVER",
+    "thumbnail_sub": "The Reality Nobody Shows You",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "5 Signs Your Startup Is About to Run Out of Money",
+    "topic": "5 signs your startup is about to run out of money — the subtle indicators every founder misses until it's almost too late",
+    "thumbnail_text": "YOUR RUNWAY IS SHORTER THAN YOU THINK",
+    "thumbnail_sub": "5 Warning Signs",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "Why Every Code Review Turns Into a Fight",
+    "topic": "Why every code review turns into a fight — the ego, style wars, and communication failures that make pull requests toxic",
+    "thumbnail_text": "CODE REVIEWS ARE TOXIC",
+    "thumbnail_sub": "Here's Why They Always Fight",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "What Users Actually Do When You're Not Watching",
+    "topic": "What users actually do with your product when you're not watching — the humbling reality of user behavior that analytics never capture",
+    "thumbnail_text": "USERS DON'T USE YOUR APP",
+    "thumbnail_sub": "What They Actually Do",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "How to Survive Your First Engineering Manager Role",
+    "topic": "How to survive your first engineering manager role — the identity crisis, the imposter syndrome, and the skills nobody teaches you",
+    "thumbnail_text": "YOUR FIRST EM ROLE WILL BREAK YOU",
+    "thumbnail_sub": "How to Actually Survive It",
+    "thumbnail_image": "hook"
+  },
+  {
+    "title": "Why We Rewrote Everything and It Was a Terrible Idea",
+    "topic": "Why we rewrote everything from scratch and it was a terrible idea — the allure of the big rewrite and why it almost always fails",
+    "thumbnail_text": "THE BIG REWRITE WAS A MISTAKE",
+    "thumbnail_sub": "Why We Did It Anyway",
+    "thumbnail_image": "hook"
+  }
+]

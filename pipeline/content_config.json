@@ -1,0 +1,75 @@
+{
+  "channel": "Dev Life with Uche",
+  "pillars": [
+    {
+      "id": "startup_realities",
+      "name": "Startup Realities",
+      "description": "Myths vs how it actually works. The unglamorous truths about founding, bootstrapping, and early-stage chaos that no one posts about on Twitter.",
+      "tone": "sardonic, experienced, slightly world-weary",
+      "example_topics": [
+        "5 Things Nobody Tells You Before Your First Startup",
+        "7 Startup Myths That Will Waste Your Twenties"
+      ]
+    },
+    {
+      "id": "sprint_agile",
+      "name": "Sprint & Agile Dysfunction",
+      "description": "Scope creep, pointless standups, estimation theatre, velocity worship, and the gap between what the Agile Manifesto says and what your PM actually does.",
+      "tone": "dry, observational, cathartic",
+      "example_topics": [
+        "7 Signs Your Agile Process Is Waterfall in Disguise",
+        "5 Sprint Rituals That Waste Everyone's Time"
+      ]
+    },
+    {
+      "id": "customer_reality",
+      "name": "The Customer Reality",
+      "description": "Building what users actually need vs what stakeholders want. The politics of product decisions, feature factories, and learning to say no.",
+      "tone": "pragmatic, slightly frustrated, empathetic",
+      "example_topics": [
+        "6 Features Your Users Never Asked For",
+        "5 Signs You Are Building the Wrong Product"
+      ]
+    },
+    {
+      "id": "career_navigation",
+      "name": "Career Navigation",
+      "description": "Promotions, politics, knowing when to leave, salary negotiation, the IC vs management fork, and surviving reorgs.",
+      "tone": "direct, advisory, real-talk",
+      "example_topics": [
+        "7 Career Moves Senior Devs Make Too Late",
+        "5 Signs It Is Time to Leave Your Job"
+      ]
+    },
+    {
+      "id": "tech_debt_culture",
+      "name": "Tech Debt & Code Culture",
+      "description": "Legacy codebases, 'we will fix it later', review drama, over-engineering, under-engineering, and the archaeology of bad decisions.",
+      "tone": "knowing, slightly haunted, darkly humorous",
+      "example_topics": [
+        "7 Types of Tech Debt and the Lies We Tell About Each",
+        "5 Code Review Comments That Mean Something Else Entirely"
+      ]
+    },
+    {
+      "id": "pm_engineer",
+      "name": "PM vs Engineer Dynamics",
+      "description": "The eternal tension, miscommunication, competing priorities, the art of pushback, and why your PM is not actually your enemy.",
+      "tone": "balanced, wry, bridge-building",
+      "example_topics": [
+        "7 Things Your PM Wishes You Understood",
+        "5 Reasons Engineers and PMs Will Never Fully Agree"
+      ]
+    },
+    {
+      "id": "founder_cto",
+      "name": "Founder/CTO Life",
+      "description": "Wearing too many hats, hiring when you cannot pay market rate, fundraising realities, technical co-founder dynamics, and the loneliness at the top of a small company.",
+      "tone": "vulnerable, honest, slightly exhausted",
+      "example_topics": [
+        "6 Things Nobody Warns You About Being a CTO",
+        "5 Fundraising Realities That Broke My Expectations"
+      ]
+    }
+  ]
+}

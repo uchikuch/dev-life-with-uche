@@ -1,0 +1,52 @@
+# --- Secrets & credentials --------------------------------------------------
+.env
+*.env
+!.env.example
+!.env.template
+client_secret.json
+token.json
+*.token.json
+.dev-life-credentials.json
+
+# --- Proprietary brand & character assets -----------------------------------
+character_sheet.png
+Channel Assets/
+pipeline/assets/endscreen.png
+pipeline/assets/logo/logo.png
+
+# --- Trained model weights --------------------------------------------------
+*.safetensors
+pytorch_lora_weights.safetensors
+
+# --- Personal editorial planning --------------------------------------------
+dev_life_with_uche_content_calendar.xlsx
+
+# --- Pipeline output (generated content) ------------------------------------
+pipeline/jobs/
+jobs/
+pipeline/assets/music/*.mp3
+pipeline/assets/music/*.wav
+pipeline/pipeline/calendar_state.json
+
+# --- Generated media --------------------------------------------------------
+*.mp3
+*.mp4
+*.wav
+
+# --- Python -----------------------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# --- OS ---------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+
+# --- IDE / local tooling ----------------------------------------------------
+.vscode/
+.idea/
+.claude/
